@@ -1,4 +1,4 @@
-const apiKey = 727b6c2ae9d18bcd3799e0e158203c2e
+const apiKey = '727b6c2ae9d18bcd3799e0e158203c2e'
 const randomMovieButton = document.getElementById('randomMovieButton');
 const movieInfo = document.getElementById('movieInfo');
 
